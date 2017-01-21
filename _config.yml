@@ -3,8 +3,8 @@ name: Pili test
 bio: 'DNN workshop'
 
 # if it's an external image, update below for true
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: True
+picture: https://www.goodfreephotos.com/albums/people/female-photographer-taking-photo.jpg
 
 url: http://koppl.in/indigo
 # your url: http://USERNAME.github.io
